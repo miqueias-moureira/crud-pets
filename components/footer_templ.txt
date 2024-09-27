@@ -1,0 +1,1 @@
+<footer class=\"footer\"><div class=\"content has-text-centered\"><p><strong>BirdsClub</strong> by <a href=\"#\">Miquéias Alaéviton Moureira</a>.</p></div></footer>
